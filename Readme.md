@@ -4,9 +4,11 @@
 
 Install dependencies using:
 
-````npm install
+```
+npm install
 or
-yarn install```
+yarn install
+```
 
 ---
 
@@ -27,6 +29,4 @@ yarn install```
 
 ---
 
-** For state management [Redux Toolkit](https://redux-toolkit.js.org/) used
-
----
+\*\* For state management [Redux Toolkit](https://redux-toolkit.js.org/) used
