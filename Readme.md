@@ -29,4 +29,4 @@ yarn install
 
 ---
 
-\*\* For state management [Redux Toolkit](https://redux-toolkit.js.org/) used
+**For state management [Redux Toolkit](https://redux-toolkit.js.org/) used**
